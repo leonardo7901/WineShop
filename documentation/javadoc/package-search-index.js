@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"WineShop","l":"controller"},{"m":"WineShop","l":"model"},{"m":"WineShop","l":"view"}];updateSearchResults();
